@@ -66,6 +66,13 @@ house-price-app/
 
 You'll need Python 3.11 and Node.js installed.
 
+**Get the code**
+
+```bash
+git clone https://github.com/MuhammadAbdullah-922/house-price-app.git
+cd house-price-app
+```
+
 **Backend**
 
 ```bash
@@ -112,3 +119,5 @@ Run the notebooks in `ml/notebooks` in order. The last cells of notebook 05 save
 ## Author
 
 Syed Abdullah Shahid
+
+GitHub: [MuhammadAbdullah-922](https://github.com/MuhammadAbdullah-922)
